@@ -1,0 +1,3 @@
+#!/bin/sh
+
+fasm stwm.asm
